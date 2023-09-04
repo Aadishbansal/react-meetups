@@ -1,0 +1,8 @@
+.card {
+  height: 60vh;
+}
+
+.card img {
+  object-fit: contain;
+  height: 40vh;
+}
